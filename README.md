@@ -6,4 +6,4 @@ I build web applications, from interfaces and APIs to tools that solve everyday 
 
 ## Проекты / Projects
 
-- **[Nethammereda](https://github.com/hattwell/nethammereda)** — сервис заказа корпоративных обедов с каталогом, личным кабинетом и админ-панелью. Corporate meal ordering app with a catalog, personal account, and admin dashboard. `Laravel · Vue · Filament`
+- **[Nethammereda](https://github.com/hattwell/nethammereda)** · **[Живое демо / Live demo](https://nethammereda-demo.onrender.com/)** — сервис заказа корпоративных обедов с каталогом, личным кабинетом и админ-панелью. Corporate meal ordering app with a catalog, personal account, and admin dashboard. Тестовые данные сбрасываются после простоя / Test data resets after inactivity. `Laravel · Vue · Filament`
